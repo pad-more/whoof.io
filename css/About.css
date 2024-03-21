@@ -1,0 +1,104 @@
+
+  body {
+  background-color: black;
+    font-family: "Montserrat";
+
+  }
+
+.last-end{
+  height: 30px;
+  width: 1500px;
+  background-color: #50b3a2;margin-top: 92px;
+  margin-bottom: -80px;
+}
+.footer{
+  margin-top: 80px;
+  text-align: center;
+  color: #FF4C68;
+}
+  .dark{
+    margin-top: 150px;
+  }
+
+.whoof{
+  background-color: #FF4C68;
+  color: white;
+  font-family: "Montserrat";
+}
+.qrcode{
+  position: absolute;
+  left: 900px;
+  top: 100px;
+}
+.nav-link {
+  background-color:  #FF4C68;
+  color: White;
+  font-size: 40px;
+  width: 250px;
+  height: 70px;
+  padding: 25px;
+
+}
+.about-us{
+  font-family: Sacremento;
+}
+.atma-light {
+  font-family: "Atma", system-ui;
+  font-weight: 300;
+  font-style: normal;
+}
+
+  .about{
+    margin-top: ;
+    margin-right: 40px;
+    line-height: 1.5rem;
+    font-size: 20px;
+    margin-top: 50px;
+
+  }
+
+  .container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  header {
+    background: #50b3a2;
+    color: white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #e8491d 3px solid;
+  }
+  header a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+  }
+  header ul {
+    padding: 0;
+    list-style: none;
+  }
+  header li {
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+  }
+  header #branding {
+    float: left;
+  }
+  header #branding h1 {
+    margin: 0;
+  }
+  header nav {
+    float: right;
+    margin-top: 10px;
+  }
+  header .highlight, header .current a {
+    color: #e8491d;
+    font-weight: bold;
+  }
+  header a:hover {
+    color: #ffffff;
+    font-weight: bold;
+  }

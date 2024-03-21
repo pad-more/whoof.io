@@ -1,0 +1,145 @@
+
+body {
+  background-image: url("https://th.bing.com/th/id/R.5c6bd1c31d48eeaa3ec2e55951f08e58?rik=WKxv7LskuT49Cw&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f35800000%2fPuppy-dogs-35894603-1920-1200.jpg&ehk=2b0h3p5A8qcSr%2ftB6EGud0cO2SLHMhOGl0z%2bd%2bmf2F8%3d&risl=&pid=ImgRaw&r=0");
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-size: cover;
+}
+
+.whoof{
+  background-color: #FF4C68;
+  color: white;
+  font-family: "Montserrat";
+}
+
+  .mySlides {display: none;}
+img {
+
+  vertical-align: middle;
+  width: 100px;
+
+}
+
+.first-half{
+  width: 775px;
+  height: 980px;
+  /* background-color:  #ff464d; */
+  position: absolute;
+  margin-left: -20px;
+  margin-top: -20px;
+}
+
+.second-half{
+  width: 750px;
+  height: 1000px;
+  /* background-color:  black; */
+  position: absolute;
+  margin-left: 775px;
+  margin-top: -800px;
+}
+
+
+
+.registeration-panel{
+  background-color: white;
+text-align: center;
+width: 400px;
+margin:  ;
+border-radius: 5px;
+margin-left: 550px;
+z-index: 0;
+position: relative;
+margin-top: 100px;
+
+
+  /* width: 400px;
+  height: 600px; */
+}
+
+/* .registeration-panel{
+  opacity: 0.7; /* 50% transparent */
+} */
+
+.R-e{
+ text-decoration:underline;
+ text-decoration-color: #4E4FEB;
+
+
+
+}
+
+.Name-box{
+  padding: 12px;
+  width: 320px;
+  margin-top: 25px;
+  border-radius: 5px;
+  border: none;
+  box-shadow:  1px 1px 1px 1px grey;
+}
+
+.Top{
+  padding-top: 30px;
+  margin-top: 80px;
+  text-align: left;
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: -6px;
+  margin-left: 30px;
+}
+
+.Email-box{
+  padding: 12px;
+  width: 320px;
+  margin-top: 25px;
+  border-radius: 5px;
+  border: none;
+  box-shadow:  1px 1px 1px 1px grey;
+  /* margin-bottom: 10px; */
+}
+
+.Password-box{
+  padding: 12px;
+  width: 320px;
+  margin-top: 25px;
+  border-radius: 5px;
+  border: none;
+  box-shadow:  1px 1px 1px 1px grey;
+}
+
+.confirm-box{
+  padding: 12px;
+  width: 320px;
+  margin-top: 25px;
+  border-radius: 5px;
+  border: none;
+  box-shadow:  1px 1px 1px 1px grey;
+}
+
+.Accept-conditions{
+  margin-top: 28px;
+  margin-left: -120px;
+}
+
+
+.Submit-button{
+  margin-top: 25px;
+  padding: 12px;
+  width: 350px;
+  border-radius: 8px;
+  background-color: #ff464d /* rgb(0,125,220)*/;
+  border: solid ;
+  color: white;
+  cursor: pointer;
+}
+
+
+.Login{
+  Color: rgb(0,125,220);
+  text-decoration: none;
+
+}
+
+.Last-Line{
+  margin-top: 25px;
+  padding-bottom: 10px;
+}

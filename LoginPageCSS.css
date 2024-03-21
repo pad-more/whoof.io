@@ -1,0 +1,139 @@
+
+body{
+  background-color:  #9CAFAA;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+  height: 100vh;
+  margin-top: -40px
+
+}
+
+.first-section{
+  height: 340;
+  width: 541;
+  z-index: 1;
+  position: absolute;
+}
+.start-button{
+  color: white;
+  background-color: #ff4b2b;
+  border: none;
+  border-radius: 30px;
+  height: 40px;
+  width: 150px;
+  margin:30px;
+  cursor: pointer;
+margin-top: 10px;
+
+  transition: box shadow 0.15s;
+}
+
+.start-button:hover{
+box-shadow: 10px 10px 10px rgba(0,0,0, 0.15);
+}
+
+
+.sign-in{
+  background-color: white;
+  height: 600px;
+  text-align: center;
+  width: 480px;
+  margin-left: 300px;
+  margin-Top: 100px;
+  padding: 40px;
+}
+
+.sign-up{
+  background-color: #ff464d;
+  height: 600px;
+  text-align: center;
+  width: 480px;
+  margin-left: 780px;
+  margin-Top: -910px; <--880-->
+}
+
+.heading{
+  margin-top: 150px;
+  font-weight: 600px;
+
+}
+
+.Email-box{
+  margin-top: 5px;
+  width: 300px;
+  height: 30px;
+  margin-bottom: 30px;
+  border: 0px;
+  background-color: #DEDEDE;
+padding: 5px;
+padding-left: 15px;
+}
+
+.Password-box{
+
+  width: 300px;
+  height: 30px;
+  background-color: #DEDEDE;
+border: 0px;
+padding: 5px;
+padding-left: 15px;
+}
+
+.heading-2 {
+  color: white;
+    margin-top: 280px;
+    padding: 120px;
+    margin-bottom: -30px
+
+}
+
+.details{
+  color: white;
+  margin-top: -180px;
+}
+.heading-2{
+
+}
+.signup-button{
+  color: white;
+  background-color: #ff464d;
+  border: solid white 1px;
+  border-radius: 30px;
+  height: 40px;
+  width: 150px;
+  margin:30px;
+  cursor: pointer;
+margin-top: 30px;
+
+
+}
+
+.use-account{
+  margin-top: 50px;
+  margin-bottom: 120px;
+}
+
+.social-container{
+  margin-top: -180px;
+}
+
+.social{
+  margin-bottom: 20px;
+
+}
+
+.social-container{
+      margin-top: 60px;
+}
+.social-1{
+  margin-right: 20px;
+
+}
+
+.social-2{
+  margin-right: 20px;
+}
+
+.social-3{
+    margin-right: 20px;
+}
